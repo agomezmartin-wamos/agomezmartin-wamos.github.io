@@ -163,7 +163,7 @@ content:
       - layout: left
         title: DO&CO
         link: https://www.doco.com/
-        link_text: doco.com</br><img src="images/profile.jpg" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
+        link_text: doco.com</br><img src="images/profile.jpg">
 
         sub_title: Eventos Privados
         caption: October 2007 - May 2012</br><mark>Londres, Reino Unido</mark> 
