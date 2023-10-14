@@ -145,10 +145,9 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: <img src="images/doco.png" width="75%" height="75%">
-         link: https://www.doco.com/
-         link_text: aldwych-theatre
-
+        title: The Aldwych Theatre
+        link: https://www.nederlander.co.uk/aldwych-theatre
+        link_text: aldwych-theatre
         sub_title: Atención al cliente - customer service
         caption: October 2012 - May 2014</br><mark>Londres, Reino Unido</mark> 
 #        quote: >
