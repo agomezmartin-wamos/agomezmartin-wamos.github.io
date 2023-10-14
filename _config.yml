@@ -145,71 +145,6 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: ACOLAD
-        link: https://www.acolad.com/
-        link_text: acolad.com
-        sub_title: Technical Services Lead | Ingeniero de localizaión
-        caption: Septiembre 2018 - Septiembre 2021</br><mark>Madrid, España</mark> 
-      #  quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          
-          Responsable de la totalidad del ciclo de producción de los proyectos de localización.
-
-          <mark>Gestor de prooyectos técnicos</mark>
-            - Análisis de requisistos de cliente
-            - Creación de presupuestos
-            - Redacción de procesos
-
-          <mark>Ingeniería de localización</mark>
-            - Preparación de archivos
-            - Configuración de herramientas de traducción asistida
-            - Creación de recuentos
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Transperfect
-        link: https://www.transperfect.com/
-        link_text: transperfect.com
-        sub_title: Ingeniero de localización
-        caption: Madrid, España
-        caption: Mayo 2015 - Agosto 2018</br><mark>Madrid, y Barcelona</mark>, España 
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-
-          Análisis de contenido y preparación para su correcta traducción a cualquier idioma.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: GAMESYS LIMITED
-        link: https://www.gamesysgroup.com/
-        link_text: gamesysgroup.com
-        sub_title: Traductor y localizador
-        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-            Traducción y localización del video juego onine HotShot Trader.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: The London Oratory School
-        link: https://www.london-oratory.org/
-        link_text: london-oratory.org
-        sub_title: Asistente de conversación
-        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-            Preparación de exámenes de bachillerato.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
         title: The Aldwhich Theatre
         link: https://www.nederlander.co.uk/aldwych-theatre
         link_text: aldwych-theatre
@@ -237,6 +172,72 @@ content:
             Camarero de catering en <mark>eventos corporativos privados</mark> en las salas reservadas del <mark>Museo Británico</mark> de Londres.
             <img src="images/profile.jpg" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: The London Oratory School
+        link: https://www.london-oratory.org/
+        link_text: london-oratory.org
+        sub_title: Asistente de conversación
+        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
+#        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+            Preparación de exámenes de bachillerato.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: GAMESYS LIMITED
+        link: https://www.gamesysgroup.com/
+        link_text: gamesysgroup.com
+        sub_title: Traductor y localizador
+        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
+#        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+            Traducción y localización del video juego onine HotShot Trader.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: Transperfect
+        link: https://www.transperfect.com/
+        link_text: transperfect.com
+        sub_title: Ingeniero de localización
+        caption: Madrid, España
+        caption: Mayo 2015 - Agosto 2018</br><mark>Madrid, y Barcelona</mark>, España 
+#        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+
+          Análisis de contenido y preparación para su correcta traducción a cualquier idioma.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: ACOLAD
+        link: https://www.acolad.com/
+        link_text: acolad.com
+        sub_title: Technical Services Lead | Ingeniero de localizaión
+        caption: Septiembre 2018 - Septiembre 2021</br><mark>Madrid, España</mark> 
+      #  quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          
+          Responsable de la totalidad del ciclo de producción de los proyectos de localización.
+
+          <mark>Gestor de prooyectos técnicos</mark>
+            - Análisis de requisistos de cliente
+            - Creación de presupuestos
+            - Redacción de procesos
+
+          <mark>Ingeniería de localización</mark>
+            - Preparación de archivos
+            - Configuración de herramientas de traducción asistida
+            - Creación de recuentos
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
   - title: Software & Technology
