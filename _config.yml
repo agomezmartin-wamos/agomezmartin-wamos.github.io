@@ -145,7 +145,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: The Aldwych Theatre
+        title: The Aldwhich Theatre
         link: https://www.nederlander.co.uk/aldwych-theatre
         link_text: aldwych-theatre
         sub_title: Atención al cliente - customer service
@@ -163,7 +163,7 @@ content:
       - layout: left
         title: <img src="images/doco.png" width="75%" height="75%">
          link: https://www.doco.com/
-         link_text: doco.com
+         link_text: <img src="images/doco.png" width="75%" height="75%">
 
         sub_title: Eventos Privados
         caption: October 2007 - May 2012</br><mark>Londres, Reino Unido</mark> 
