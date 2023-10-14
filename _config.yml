@@ -85,7 +85,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: <img src="/images/doco.png" width="35%" height="35%">
+        title: <img src="/images/doco.png" width="35%" height="75%">
         link: https://www.doco.com/
         link_text: doco.com
         sub_title: Eventos Privados
