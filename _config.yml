@@ -146,8 +146,8 @@ content:
 
       - layout: left
         title: <img src="images/aldwych.png" width="75%" height="75%">
-         link: https://www.nederlander.co.uk/aldwych-theatre
-         link_text: aldwych-theatre
+        link: https://www.nederlander.co.uk/aldwych-theatre
+        link_text: aldwych-theatre
         sub_title: Atención al cliente - customer service
         caption: October 2012 - May 2014</br><mark>Londres, Reino Unido</mark> 
 #        quote: >
@@ -156,7 +156,7 @@ content:
             Miembro del equipo de <mark>atención al cliente</mark> del teatro.
               - Recepción de clientes
               - Venta de merchandising
-              - Camarero de barra 
+              - Camarero de barra
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -164,6 +164,7 @@ content:
         title: <img src="images/doco.png" width="75%" height="75%">
          link: https://www.doco.com/
          link_text: doco.com
+
         sub_title: Eventos Privados
         caption: October 2007 - May 2012</br><mark>Londres, Reino Unido</mark> 
 #        quote: >
