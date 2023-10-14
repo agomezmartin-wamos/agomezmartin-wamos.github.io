@@ -6,23 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Alberto Gómez-Martín
-title: Localization Engineer pivoting to Junior Software Engineer
+name: Alberto Gómez Martín
+title: Atención al cliente
 email: agomezmartinpro@gmail.com
-website: https://agomezmartin.github.io/
+website: https://agomezmartin1.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  agomezmartin
+# github_username:  agomezmartin
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: albertogomezmartin
+# linkedin_username: albertogomezmartin
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -45,16 +45,15 @@ linkedin_username: albertogomezmartin
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.png
+about_title: SObre mi
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Originally a Spanish national, I have lived in London for over a decade where I carried out both my studies and the onset of my professional career.
-    
-    As a professional, I have developed mainly at global <mark>Language Service Providers</mark> (LSP) working as a <mark>Localization Engineer</mark>. Although coming from a translation-educated background, this position has enabled me to work hand-in-hand in the same department with IT-educated professionals where we came up together with solutions to streamline and scale the localization processes of our clients' software products.
-    
-    After having spent more than <mark>six years</mark> in the localization industry helping software clients localize (translate) their products, I am now ready to move to the client side and be able to develop internationalization architectures along with all other development aspects of the cycle.
+    He vivido en Londres, Reino Unido once años. Durante estos años realicé mis estudios universitarios (música clásica y traducción) así como el principio de mi carrera profesional.
+    Trabajé durante siete años en el departamento de <mark>Eventos Privados</mark> del Museo Británico, así como en varios teatros del West End como parte del equioi de <mark>atención al cliente</mark>.
 
-content:
+    Me considero un profesional dinámico que afronta nuevos retos con dinamismo y eficacia.
+    En la actualidad he decidido dejar atrás mi carrera corporativa para reciclarme y volver a estar en contacto con el cliente me llena de ilusión y motivación.
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -62,87 +61,76 @@ content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-  - title: Education # Title for the section
+  - title: Titulación académica # Title for the section
     layout: list # Type of content section (list/text)
     content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: CRN
-        caption: September 2023 - In progress</br><mark>Madrid, Spain</mark> 
-        sub_title: Java Proffesional Standard Edition (ORACLE Certificate)
+        title: Universitdad de Westminster
+        caption: Septiembre 2009 - Mayo 2012</br><mark>Londres, Reino Unido</mark> 
+        sub_title: Grado en Traducción (Español-Inglés)
 #        quote: >
 
-        description: | # this will include new lines to allow paragraphs
-          Java Standard Edition: the course covers J2SE's API and includes a 10-hours long preparation for the <mark>Oracle Certified Professional, Java SE Programme</mark>. 
+         description: | # this will include new lines to allow paragraphs
+#           Carrying out a BA in Translation at University of Westminster allowed to deveop not only direct and indirect translation skills, but also intercultural awareness studies.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: Imperial College London
+        caption: Octubre 2012 - Septiembre 2013</br><mark>Londres, Reino Unido</mark> 
+        sub_title: Máster en Ciencias de Traducción médica, científica y técnica con tecnología de la traducción
+#        quote: >
+#          Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
+         description: | # this will include new lines to allow paragraphs
+#           During my time at Imperial College London (ICL) I acquired some of my field-specific technical skills regarding <mark>translation technology</mark>.
+          
+#           Project Management, Computer-Assisted-Translation tools (CAT), or Machine Translation were some of the subjects that connected most strongly with the professional world.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: Imperial College London
+        caption: Abril 2013 - Julio 2013</br><mark>Londres, Reino Unido</mark> 
+        sub_title: Certificado en Localización de Software
+#         quote: >
+#           Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
+         description: | # this will include new lines to allow paragraphs
+#           This all-encompasing <mark>Software Localization</mark> certificate provided specific technical insights into the processes involved in identifying and handling text to be extracted and localized from software products.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
         title: Centro de Formación en Tecnologías de la información y las comunicaciones de Madrid
-        caption: May 2023 - July 2023</br><mark>Madrid, Spain</mark> 
-        sub_title: Data development and visualization with Python (Django and Pandas)
+        caption: Mayo 2023 - Julio 2023</br><mark>Madrid, España</mark> 
+        sub_title: Desarrollo y visualización de datos con Python (Django y Pandas)
 #        quote: >
 
-        description: | # this will include new lines to allow paragraphs
-          This <mark>intensive course</mark> dug into the world of data visualization using Python with a focus on <mark>Django</mark> framework.
+         description: | # this will include new lines to allow paragraphs
+#           This <mark>intensive course</mark> dug into the world of data visualization using Python with a focus on <mark>Django</mark> framework.
 
-          - Django
-          - Python
-          - SQL
-          - Pandas
+#           - Django
+#           - Python
+#           - SQL
+#           - Pandas
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
         title: Core Networks School
-        caption: September 2022 - November 2022</br><mark>Madrid, Spain</mark> 
+        caption: Septiembre 2022 - Noviembre 2022</br><mark>Madrid, España</mark> 
         sub_title: JAVA Enterprise Edition
 #        quote: >
 
         description: | # this will include new lines to allow paragraphs
-          Using JAVA Enterprise Edition to develop web-based applications.
+#           Using JAVA Enterprise Edition to develop web-based applications.
 
-          - Java
-          - SQL
-          - Angular
-          - Services
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Imperial College London
-        caption: October 2012 - September 2013</br><mark>London, United Kingdon</mark> 
-        sub_title: MSc Scientific, Medical and Technical Translation with Translation Technology
-#        quote: >
-#          Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Imperial College London (ICL) I acquired some of my field-specific technical skills regarding <mark>translation technology</mark>.
-          
-          Project Management, Computer-Assisted-Translation tools (CAT), or Machine Translation were some of the subjects that connected most strongly with the professional world.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Imperial College London
-        caption: April 2013 - July 2013</br><mark>London, United Kingdon</mark> 
-        sub_title: Certificate in Software Localization
-#         quote: >
-#           Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
-        description: | # this will include new lines to allow paragraphs
-          This all-encompasing <mark>Software Localization</mark> certificate provided specific technical insights into the processes involved in identifying and handling text to be extracted and localized from software products.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: University of Westeminster
-        caption: September 2009 - May 2012</br><mark>London, United Kingdon</mark> 
-        sub_title: BA in Translation (Spanish-English)
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          Carrying out a BA in Translation at University of Westminster allowed to deveop not only direct and indirect translation skills, but also intercultural awareness studies.
+#           - Java
+#           - SQL
+#           - Angular
+#           - Services
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
