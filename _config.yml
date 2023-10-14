@@ -236,7 +236,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Camarero de catering en <mark>eventos corporativos privados</mark> en las salas reservadas del <mark>Museo Británico</mark> de Londres.
   
-        <img src="/images/total_commander.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
+        <img src="images/profile.jpg" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
