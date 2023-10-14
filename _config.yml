@@ -58,82 +58,6 @@ content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-#    EDUCATION
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-  - title: Titulación académica # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Imperial College London
-        caption: Octubre 2012 - Septiembre 2013</br><mark>Londres, Reino Unido</mark> 
-        sub_title: Master en Ciencias de Traducción médica, técnica y científica con tecnología de la traducción
-#        quote: >
-#          Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
-        description: | # this will include new lines to allow paragraphs
-          Máster especializado en las tres grandes vertientes técnicas de la traducción y tradumática.
-
-          Gestión de proyectos, traducción asistida por ordenador (TAO).
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Imperial College London
-        caption: Abril 2013 - Julio 2013</br><mark>Londres, Reino Unido</mark> 
-        sub_title: Certificado en Software de Localización
-#         quote: >
-#           Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
-        description: | # this will include new lines to allow paragraphs
-          Certificado sobre traducción de software
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Universidad de Westeminster
-        caption: Septiembre 2009 - Mayo 2012</br><mark>Londres, Reino Unido</mark> 
-        sub_title: Grado de Traducción (Español-Inglés)
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          Durante este grado desarrollé aptitudes de traducción tanto direca como inversa de inglés y español así como introducción a estudios interculturales e interpretación.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Centro de Formación en Tecnologías de la información y las comunicaciones de Madrid
-        caption: Mayo 2023 - Julio 2023</br><mark>Madrid, España</mark> 
-        sub_title: Visualización y desarrollo de datos con Python (Django y Pandas)
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          - Django
-          - Python
-          - SQL
-          - Pandas
-#           This <mark>intensive course</mark> dug into the world of data visualization using Python with a focus on <mark>Django</mark> framework.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Core Networks School
-        caption: September 2022 - November 2022</br><mark>Madrid, Spain</mark> 
-        sub_title: JAVA Enterprise Edition
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          Using JAVA Enterprise Edition to develop web-based applications.
-
-          - Java
-          - SQL
-          - Angular
-          - Services
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
 #    EXPERIENCE
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
@@ -240,6 +164,81 @@ content:
             - Creación de recuentos
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+#    EDUCATION
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+  - title: Titulación académica # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: Imperial College London
+        caption: Octubre 2012 - Septiembre 2013</br><mark>Londres, Reino Unido</mark> 
+        sub_title: Master en Ciencias de Traducción médica, técnica y científica con tecnología de la traducción
+#        quote: >
+#          Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
+        description: | # this will include new lines to allow paragraphs
+          Máster especializado en las tres grandes vertientes técnicas de la traducción y tradumática.
+
+          Gestión de proyectos, traducción asistida por ordenador (TAO).
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: Imperial College London
+        caption: Abril 2013 - Julio 2013</br><mark>Londres, Reino Unido</mark> 
+        sub_title: Certificado en Software de Localización
+#         quote: >
+#           Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
+        description: | # this will include new lines to allow paragraphs
+          Certificado sobre traducción de software
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: Universidad de Westeminster
+        caption: Septiembre 2009 - Mayo 2012</br><mark>Londres, Reino Unido</mark> 
+        sub_title: Grado de Traducción (Español-Inglés)
+#        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          Durante este grado desarrollé aptitudes de traducción tanto direca como inversa de inglés y español así como introducción a estudios interculturales e interpretación.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: Centro de Formación en Tecnologías de la información y las comunicaciones de Madrid
+        caption: Mayo 2023 - Julio 2023</br><mark>Madrid, España</mark> 
+        sub_title: Visualización y desarrollo de datos con Python (Django y Pandas)
+#        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          - Django
+          - Python
+          - SQL
+          - Pandas
+#           This <mark>intensive course</mark> dug into the world of data visualization using Python with a focus on <mark>Django</mark> framework.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: Core Networks School
+        caption: September 2022 - November 2022</br><mark>Madrid, Spain</mark> 
+        sub_title: JAVA Enterprise Edition
+#        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          Using JAVA Enterprise Edition to develop web-based applications.
+
+          - Java
+          - SQL
+          - Angular
+          - Services
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
   - title: Software & Technology
