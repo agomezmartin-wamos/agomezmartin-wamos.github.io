@@ -73,7 +73,7 @@ about_content: | # this will include new lines to allow paragraphs
         sub_title: Grado en Traducción (Español-Inglés)
 #        quote: >
 
-#         description: | # this will include new lines to allow paragraphs
+         description: | # this will include new lines to allow paragraphs
 #           Carrying out a BA in Translation at University of Westminster allowed to deveop not only direct and indirect translation skills, but also intercultural awareness studies.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
@@ -84,7 +84,7 @@ about_content: | # this will include new lines to allow paragraphs
         sub_title: Máster en Ciencias de Traducción médica, científica y técnica con tecnología de la traducción
 #        quote: >
 #          Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
-#         description: | # this will include new lines to allow paragraphs
+         description: | # this will include new lines to allow paragraphs
 #           During my time at Imperial College London (ICL) I acquired some of my field-specific technical skills regarding <mark>translation technology</mark>.
           
 #           Project Management, Computer-Assisted-Translation tools (CAT), or Machine Translation were some of the subjects that connected most strongly with the professional world.
@@ -97,7 +97,7 @@ about_content: | # this will include new lines to allow paragraphs
         sub_title: Certificado en Localización de Software
 #         quote: >
 #           Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
-#         description: | # this will include new lines to allow paragraphs
+         description: | # this will include new lines to allow paragraphs
 #           This all-encompasing <mark>Software Localization</mark> certificate provided specific technical insights into the processes involved in identifying and handling text to be extracted and localized from software products.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
@@ -108,7 +108,7 @@ about_content: | # this will include new lines to allow paragraphs
         sub_title: Desarrollo y visualización de datos con Python (Django y Pandas)
 #        quote: >
 
-#         description: | # this will include new lines to allow paragraphs
+         description: | # this will include new lines to allow paragraphs
 #           This <mark>intensive course</mark> dug into the world of data visualization using Python with a focus on <mark>Django</mark> framework.
 
 #           - Django
@@ -165,7 +165,7 @@ about_content: | # this will include new lines to allow paragraphs
             - Segmentation
             - Migrations
             - Translation Memory management
-            - Scripti
+            - Scripting
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
