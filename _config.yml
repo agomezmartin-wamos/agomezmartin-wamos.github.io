@@ -145,7 +145,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: The Aldwhich Theatre
+        title: <img src="/images/aldwych.png" width="85%" height="85%">
         link: https://www.nederlander.co.uk/aldwych-theatre
         link_text: aldwych-theatre
         sub_title: Atención al cliente - customer service
@@ -161,7 +161,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: DO&CO
+        title: <img src="/images/doco.png" width="85%" height="85%">
         link: https://www.doco.com/
         link_text: doco.com
         sub_title: Eventos Privados
