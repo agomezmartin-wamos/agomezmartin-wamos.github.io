@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Alberto Gómez Martín
-title: Atención al cliente
+title: 
 email: agomezmartinpro@gmail.com
 website: https://agomezmartin1.github.io/
 
@@ -16,13 +16,13 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-# github_username:  agomezmartin
+# github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: albertogomezmartin
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -30,10 +30,10 @@ darkmode: false
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://agomezmartin1.github.io/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,277 +45,73 @@ darkmode: false
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: SObre mi
+about_title: Sobre mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    He vivido en Londres, Reino Unido once años. Durante estos años realicé mis estudios universitarios (música clásica y traducción) así como el principio de mi carrera profesional.
-    Trabajé durante siete años en el departamento de <mark>Eventos Privados</mark> del Museo Británico, así como en varios teatros del West End como parte del equioi de <mark>atención al cliente</mark>.
-
-    Me considero un profesional dinámico que afronta nuevos retos con dinamismo y eficacia.
-    En la actualidad he decidido dejar atrás mi carrera corporativa para reciclarme y volver a estar en contacto con el cliente me llena de ilusión y motivación.
+  Mi amiga voladora me ha propuesto echar el CV a su empresa y me ha parecido una idea genial. Así que <mark>CARI</mark>, pues a eso voy.
 
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-#    EDUCATION
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-  - title: Titulación académica # Title for the section
+content:
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Universitdad de Westminster
-        caption: Septiembre 2009 - Mayo 2012</br><mark>Londres, Reino Unido</mark> 
-        sub_title: Grado en Traducción (Español-Inglés)
-#        quote: >
-
-         description: | # this will include new lines to allow paragraphs
-#           Carrying out a BA in Translation at University of Westminster allowed to deveop not only direct and indirect translation skills, but also intercultural awareness studies.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Imperial College London
-        caption: Octubre 2012 - Septiembre 2013</br><mark>Londres, Reino Unido</mark> 
-        sub_title: Máster en Ciencias de Traducción médica, científica y técnica con tecnología de la traducción
-#        quote: >
-#          Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
-         description: | # this will include new lines to allow paragraphs
-#           During my time at Imperial College London (ICL) I acquired some of my field-specific technical skills regarding <mark>translation technology</mark>.
-          
-#           Project Management, Computer-Assisted-Translation tools (CAT), or Machine Translation were some of the subjects that connected most strongly with the professional world.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Imperial College London
-        caption: Abril 2013 - Julio 2013</br><mark>Londres, Reino Unido</mark> 
-        sub_title: Certificado en Localización de Software
-#         quote: >
-#           Imperial College London is a world-class university with a mission to benefit society through excellence in science, engineering, medicine and business.
-         description: | # this will include new lines to allow paragraphs
-#           This all-encompasing <mark>Software Localization</mark> certificate provided specific technical insights into the processes involved in identifying and handling text to be extracted and localized from software products.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Centro de Formación en Tecnologías de la información y las comunicaciones de Madrid
-        caption: Mayo 2023 - Julio 2023</br><mark>Madrid, España</mark> 
-        sub_title: Desarrollo y visualización de datos con Python (Django y Pandas)
-#        quote: >
-
-         description: | # this will include new lines to allow paragraphs
-#           This <mark>intensive course</mark> dug into the world of data visualization using Python with a focus on <mark>Django</mark> framework.
-
-#           - Django
-#           - Python
-#           - SQL
-#           - Pandas
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Core Networks School
-        caption: Septiembre 2022 - Noviembre 2022</br><mark>Madrid, España</mark> 
-        sub_title: JAVA Enterprise Edition
-#        quote: >
-
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-#           Using JAVA Enterprise Edition to develop web-based applications.
-
-#           - Java
-#           - SQL
-#           - Angular
-#           - Services
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-#    EXPERIENCE
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
       - layout: left
-        title: ACOLAD
-        link: https://www.acolad.com/
-        link_text: acolad.com
-        sub_title: Technical Services Lead | Localization Engineer
-        caption: September 2018 - September 2021</br><mark>Madrid, Spain</mark> 
-      #  quote: >
-
+        title: The Boring Company
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          
-          <mark>Technical project management</mark>
-            - Asessing, and analizing from the technical side clients' products.
-            - Quotes
-            - Technical vendor management
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-          <mark>Localization Engineering</mark>
-            - File preparation for CAT processing
-            - Parser creation using regexes
-            - Segmentation
-            - Migrations
-            - Translation Memory management
-            - Scripting
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Transperfect
-        link: https://www.transperfect.com/
-        link_text: transperfect.com
-        sub_title: Localization Engineer
-        caption: Madrid, Spain
-        caption: May 2015 - August 2018</br><mark>Madrid, and Barcelona</mark>, Spain 
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-
-          As part of the localization Engineering team, we were reposible for receiving clients' products, assessing their suitability for localization processing and putting together quotes.
-          <mark>Segmentation</mark> and <mark>parse development</mark> were core parts of our everyday load.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: GAMESYS LIMITED
-        link: https://www.gamesysgroup.com/
-        link_text: gamesysgroup.com
-        sub_title: Translator and localizer
-        caption: October 2014 - May 2015</br><mark>London, United Kingdon</mark> 
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-            During my time at Gamesys, I was involved in the <mark>translation and localization</mark> of their <mark>HotShot Trader</mark> online video game project. The online video game was based in JavaScript and internationalized by extracting strings into JSON formatted files.
-            This was an incredible opportunity to get my first professional contact with real software projects as I was just coming out of university.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: The London Oratory School
-        link: https://www.london-oratory.org/
-        link_text: london-oratory.org
-        sub_title: Spanish Language Assistant
-        caption: October 2014 - May 2015</br><mark>London, United Kingdon</mark> 
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-            Helping students prepare their A Levels speaking exams.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: left
-        title: Lady Margaret School
-        link: https://ladymargaret.lbhf.sch.uk/
-        link_text: ladymargaret.lbhf.sch.uk
-        sub_title: Spanish Language Assistant
-        caption: October 2014 - May 2015</br><mark>London, United Kingdon</mark> 
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-            Helping students prepare their A Levels speaking exams.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-#    PROJECTS
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-
-      - layout: top-middle
-        title: Internationalization GitHub Repository
-        link: github.com/agomezmartin/internationalization
-        link_text: https://github.com/agomezmartin/internationalization
-        additional_links:
-          - title:  agomezmartin/internationalization
-            icon: fab fa-github
-            url: https://github.com/agomezmartin/internationalization
-#        quote: >
-
+      - layout: left
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I feel passionate about the different approaches to <mark>intenarionalizing</mark> software content, so I decied to keep track of the strategies I come across in an attempt to have it handy for everyday tasks.
-          By having the repository public, I would be proud for it to be helpful to other professionals.
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: top-middle
-        title: Django application - CRUD
-        link: github.com/agomezmartin/
-        link_text: https://github.com/agomezmartin/internationalization/tree/main/assets/_projects/django/CRUD_i18n
-        additional_links:
-          - title:  agomezmartin
-            icon: fab fa-github
-            url: https://github.com/agomezmartin/internationalization
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>Django</mark> and executing <mark>CRUD operations</mark> using the framework. I have learned many skills through this and I'm very proud of having this in my portfolio.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-      - layout: top-middle
-        title: Django application - DB (client creation)
-        link: github.com/agomezmartin/
-        link_text: https://github.com/agomezmartin/internationalization/tree/main/assets/_projects/django/WebSite_MODAL_FORM_DB_i18n
-        additional_links:
-          - title:  agomezmartin
-            icon: fab fa-github
-            url: https://github.com/agomezmartin/internationalization
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>Django</mark>, handling forms and <mark>databases</mark>. I have learned many skills through this and I'm very proud of having this in my portfolio.
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-  - title: Software & Technology
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-
-      <img src="/images/total_commander.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
-      <img src="/images/emeditor.png" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/regex.jpeg" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/django.png" width="20%" height="20%" style="margin-bottom:5%">
-      <img src="/images/rest_api.png" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/mysql.png" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/bootstrap.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
-      <img src="/images/angular.png" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/java_ee.png" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/linux.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
-      <img src="/images/windows.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
-      <img src="/images/i18n.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
-      <img src="/images/i18n_l12n.jpg" width="20%" height="10%" style="margin-bottom:5%">
-      <br>
-
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in internationalization, and software engineering some of my other interests and hobbies are:
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      - Investing and capital management
-      - Meditation
-      - Music
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
 footer_show_references: true
 # references_title: References on request (Override references text)
 
