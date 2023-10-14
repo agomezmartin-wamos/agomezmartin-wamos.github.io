@@ -187,7 +187,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: GAMESYS LIMITED
+        title: <img src="/images/gamesys.png" width="85%" height="85%">
         link: https://www.gamesysgroup.com/
         link_text: gamesysgroup.com
         sub_title: Traductor y localizador
