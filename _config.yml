@@ -75,11 +75,11 @@ content:
 #        quote: >
 
         description: | # this will include new lines to allow paragraphs
-#           This <mark>intensive course</mark> dug into the world of data visualization using Python with a focus on <mark>Django</mark> framework.
           - Django
           - Python
           - SQL
           - Pandas
+#           This <mark>intensive course</mark> dug into the world of data visualization using Python with a focus on <mark>Django</mark> framework.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
