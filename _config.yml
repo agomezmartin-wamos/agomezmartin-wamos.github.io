@@ -225,22 +225,6 @@ content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-      - layout: left
-        title: Core Networks School
-        caption: September 2022 - November 2022</br><mark>Madrid, Spain</mark> 
-        sub_title: JAVA Enterprise Edition
-#        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          Using JAVA Enterprise Edition to develop web-based applications.
-
-          - Java
-          - SQL
-          - Angular
-          - Services
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
   - title: Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
