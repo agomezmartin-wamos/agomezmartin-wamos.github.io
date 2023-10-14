@@ -138,7 +138,7 @@ content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-  - title: Experience # Title for the section
+  - title: Experiencia laboral # Title for the section
     layout: list # Type of content section (list/text)
     content:
 
@@ -148,25 +148,14 @@ content:
         title: ACOLAD
         link: https://www.acolad.com/
         link_text: acolad.com
-        sub_title: Technical Services Lead | Localization Engineer
-        caption: September 2018 - September 2021</br><mark>Madrid, Spain</mark> 
+        sub_title: Technical Services Lead | Ingeniero de localizaión
+        caption: Septiembre 2018 - Septiembre 2021</br><mark>Madrid, España</mark> 
       #  quote: >
 
         description: | # this will include new lines to allow paragraphs
           
-          <mark>Technical project management</mark>
-            - Asessing, and analizing from the technical side clients' products.
-            - Quotes
-            - Technical vendor management
-
-          <mark>Localization Engineering</mark>
-            - File preparation for CAT processing
-            - Parser creation using regexes
-            - Segmentation
-            - Migrations
-            - Translation Memory management
-            - Scripting
-
+          Responsable de la totalidad del ciclo de producción de los proyectos de localización.
+          
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
