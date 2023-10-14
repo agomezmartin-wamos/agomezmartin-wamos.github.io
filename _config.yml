@@ -200,7 +200,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: Transperfect
+        title: <img src="/images/tpt.png" width="85%" height="85%">
         link: https://www.transperfect.com/
         link_text: transperfect.com
         sub_title: Ingeniero de localización
@@ -215,7 +215,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: ACOLAD
+        title: <img src="/images/acolad.png" width="85%" height="85%">
         link: https://www.acolad.com/
         link_text: acolad.com
         sub_title: Technical Services Lead | Ingeniero de localizaión
