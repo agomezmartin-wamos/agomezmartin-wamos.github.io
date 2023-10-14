@@ -75,7 +75,7 @@ content:
 #        quote: >
 
         description: | # this will include new lines to allow paragraphs
-          Java Standard Edition: the course covers J2SE's API and includes a 10-hours long preparation for the <mark>Oracle Certified Professional, Java SE Programme</mark>. 
+#           Java Standard Edition: the course covers J2SE's API and includes a 10-hours long preparation for the <mark>Oracle Certified Professional, Java SE Programme</mark>. 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
