@@ -68,7 +68,7 @@ content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-      - layout: left
+      - layout: center
         title: CRN
         caption: September 2023 - In progress</br><mark>Madrid, Spain</mark> 
         sub_title: Java Proffesional Standard Edition (ORACLE Certificate)
