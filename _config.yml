@@ -155,7 +155,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           
           Responsable de la totalidad del ciclo de producción de los proyectos de localización.
-          
+
+          <mark>Gestor de prooyectos técnicos</mark>
+            - Análisis de requisistos de cliente
+            - Creación de presupuestos
+            - Redacción de procesos
+
+          <mark>Ingeniería de localización</mark>
+            - Preparación de archivos
+            - Configuración de herramientas de traducción asistida
+            - Creación de recuentos
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
