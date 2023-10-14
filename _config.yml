@@ -172,15 +172,14 @@ content:
         title: Transperfect
         link: https://www.transperfect.com/
         link_text: transperfect.com
-        sub_title: Localization Engineer
-        caption: Madrid, Spain
-        caption: May 2015 - August 2018</br><mark>Madrid, and Barcelona</mark>, Spain 
+        sub_title: Ingeniero de localización
+        caption: Madrid, España
+        caption: Mayo 2015 - Agosto 2018</br><mark>Madrid, y Barcelona</mark>, España 
 #        quote: >
 
         description: | # this will include new lines to allow paragraphs
 
-          As part of the localization Engineering team, we were reposible for receiving clients' products, assessing their suitability for localization processing and putting together quotes.
-          <mark>Segmentation</mark> and <mark>parse development</mark> were core parts of our everyday load.
+          Aálisis de contenido y preparación para su correcta traducción a cualquier idioma.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -188,13 +187,12 @@ content:
         title: GAMESYS LIMITED
         link: https://www.gamesysgroup.com/
         link_text: gamesysgroup.com
-        sub_title: Translator and localizer
-        caption: October 2014 - May 2015</br><mark>London, United Kingdon</mark> 
+        sub_title: Traductor y localizador
+        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
 #        quote: >
 
         description: | # this will include new lines to allow paragraphs
-            During my time at Gamesys, I was involved in the <mark>translation and localization</mark> of their <mark>HotShot Trader</mark> online video game project. The online video game was based in JavaScript and internationalized by extracting strings into JSON formatted files.
-            This was an incredible opportunity to get my first professional contact with real software projects as I was just coming out of university.
+            Traducción y localización del video juego onine HotShot Trader.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -202,25 +200,41 @@ content:
         title: The London Oratory School
         link: https://www.london-oratory.org/
         link_text: london-oratory.org
-        sub_title: Spanish Language Assistant
-        caption: October 2014 - May 2015</br><mark>London, United Kingdon</mark> 
+        sub_title: Asistente de conversación
+        caption: Octubre 2014 - Mayo 2015</br><mark>Londres, Reino Unido</mark> 
 #        quote: >
 
         description: | # this will include new lines to allow paragraphs
-            Helping students prepare their A Levels speaking exams.
+            Preparación de exámenes de bachillerato.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: Lady Margaret School
-        link: https://ladymargaret.lbhf.sch.uk/
-        link_text: ladymargaret.lbhf.sch.uk
-        sub_title: Spanish Language Assistant
-        caption: October 2014 - May 2015</br><mark>London, United Kingdon</mark> 
+        title: The Aldwhich Theatre
+        link: https://www.nederlander.co.uk/aldwych-theatre
+        link_text: aldwych-theatre
+        sub_title: Atención al cliente - customer service
+        caption: October 2012 - May 2014</br><mark>Londres, Reino Unido</mark> 
 #        quote: >
 
         description: | # this will include new lines to allow paragraphs
-            Helping students prepare their A Levels speaking exams.
+            Miembro del equipo de atención al cliente del teatro.
+              - Recepción de clientes
+              - Venta de merchandising
+              - Camarero de barra
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+      - layout: left
+        title: DO&CO
+        link: https://www.doco.com/
+        link_text: doco.com
+        sub_title: Eventos Privados
+        caption: October 2007 - May 2012</br><mark>Londres, Reino Unido</mark> 
+#        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+            Camarero de catering en <mark>eventos corporativos privados</mark> en las salas reservadas del <mark>Museo Británice</mark> de Londres.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
