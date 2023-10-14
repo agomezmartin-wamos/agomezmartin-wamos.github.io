@@ -145,7 +145,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: <img src="images/aldwych.png" width="75%" height="75%">
+        title: <img src="images/doco.png" width="75%" height="75%">
         link: https://www.nederlander.co.uk/aldwych-theatre
         link_text: aldwych-theatre
         sub_title: Atención al cliente - customer service
