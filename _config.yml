@@ -69,7 +69,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: <img src="/images/aldwych.png" width="35%" height="35%">
+        title: <img src="/images/aldwych.png" width="35%" height="75%">
         link: https://www.nederlander.co.uk/aldwych-theatre
         link_text: aldwych-theatre
         sub_title: Atención al cliente - customer service
@@ -101,7 +101,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: <img src="/images/oratory.png" width="35%" height="85%">
+        title: <img src="/images/oratory.png" width="35%" height="100%">
         link: https://www.london-oratory.org/
         link_text: london-oratory.org
         sub_title: Asistente de conversación
