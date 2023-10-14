@@ -101,7 +101,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: <img src="/images/oratory.png" width="35%" height="100%">
+        title: <img src="/images/oratory.png" width="55%" height="100%">
         link: https://www.london-oratory.org/
         link_text: london-oratory.org
         sub_title: Asistente de conversación
