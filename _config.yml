@@ -227,6 +227,7 @@ content:
 
       - layout: left
         title: DO&CO
+        about_profile_image: images/profile.jpg
         link: https://www.doco.com/
         link_text: doco.com
         sub_title: Eventos Privados
