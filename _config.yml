@@ -49,10 +49,10 @@ about_title: Sobre mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
     He vivido en Londres, Reino Unido once años. Durante estos años realicé mis estudios universitarios (música clásica y traducción) así como el principio de mi carrera profesional.
-    Trabajé durante siete años en el departamento de <mark>Eventos Privados</mark> del Museo Británico, así como en varios teatros del West End como parte del equioi de <mark>atención al cliente</mark>.
+    Trabajé durante siete años en el departamento de <mark>Eventos Privados</mark> del Museo Británico, y en teatros del West End como parte del equioi de <mark>atención al cliente</mark>.
 
-    Me considero un profesional dinámico que afronta nuevos retos con dinamismo y eficacia.
-    En la actualidad he decidido dejar atrás mi carrera corporativa para reciclarme y volver a estar en contacto con el cliente me llena de ilusión y motivación.
+    Me considero un profesional dinámico que afronta nuevos retos con ilusión y eficacia.
+    En la actualidad he decidido dejar atrás mi carrera corporativa para reciclarme y volver a estar en contacto con el cliente me llena de motivación.
 
 content:
 
@@ -241,36 +241,13 @@ content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-  - title: Software & Technology
+  - title: Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
 
-      <img src="/images/total_commander.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
-      <img src="/images/emeditor.png" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/regex.jpeg" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/django.png" width="20%" height="20%" style="margin-bottom:5%">
-      <img src="/images/rest_api.png" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/mysql.png" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/bootstrap.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
-      <img src="/images/angular.png" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/java_ee.png" width="20%" height="10%" style="margin-bottom:5%">
-      <img src="/images/linux.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
-      <img src="/images/windows.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
-      <img src="/images/i18n.png" width="10%" height="10%" style="margin-right:5%; margin-bottom:5%">
-      <img src="/images/i18n_l12n.jpg" width="20%" height="10%" style="margin-bottom:5%">
-      <br>
-
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in internationalization, and software engineering some of my other interests and hobbies are:
-
-      - Investing and capital management
-      - Meditation
-      - Music
+      - inversión financiera
+      - Meditación
+      - Música
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -279,7 +256,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: # References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
