@@ -179,7 +179,7 @@ content:
 
         description: | # this will include new lines to allow paragraphs
 
-          Aálisis de contenido y preparación para su correcta traducción a cualquier idioma.
+          Análisis de contenido y preparación para su correcta traducción a cualquier idioma.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -218,7 +218,7 @@ content:
 #        quote: >
 
         description: | # this will include new lines to allow paragraphs
-            Miembro del equipo de atención al cliente del teatro.
+            Miembro del equipo de <mark>atención al cliente</mark> del teatro.
               - Recepción de clientes
               - Venta de merchandising
               - Camarero de barra
