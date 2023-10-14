@@ -174,7 +174,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: The London Oratory School
+        title: <img src="/images/oratory.png" width="85%" height="85%">
         link: https://www.london-oratory.org/
         link_text: london-oratory.org
         sub_title: Asistente de conversación
