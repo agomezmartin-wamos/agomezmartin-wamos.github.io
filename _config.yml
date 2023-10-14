@@ -161,7 +161,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: DO&CO
+        title: <img src="images/doco.png" width="75%" height="75%">
         link: https://www.doco.com/
         link_text: <img src="images/doco.png" width="75%" height="75%">
 
