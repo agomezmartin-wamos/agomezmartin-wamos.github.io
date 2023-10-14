@@ -6,23 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Alberto Gómez-Martín
-title: Localization Engineer pivoting to Junior Software Engineer
+name: Alberto Gómez Martín
+title: Atención al cliente
 email: agomezmartinpro@gmail.com
-website: https://agomezmartin.github.io/
+website: https://agomezmartin1.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  agomezmartin
+# github_username:  agomezmartin
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: albertogomezmartin
+# linkedin_username: albertogomezmartin
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
