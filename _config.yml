@@ -62,13 +62,13 @@ content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-  - title: Education # Title for the section
+  - title: Titulación académica # Title for the section
     layout: list # Type of content section (list/text)
     content:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-      - layout: center
+      - layout: centre
         title: CRN
         caption: September 2023 - In progress</br><mark>Madrid, Spain</mark> 
         sub_title: Java Proffesional Standard Edition (ORACLE Certificate)
