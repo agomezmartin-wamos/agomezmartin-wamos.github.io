@@ -45,11 +45,11 @@ darkmode: false
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Sobre mi
+about_title: Sobre mí
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
     He vivido en Londres, Reino Unido once años. Durante estos años realicé mis estudios universitarios (música clásica y traducción) así como el principio de mi carrera profesional.
-    Trabajé durante siete años en el departamento de <mark>Eventos Privados</mark> del Museo Británico, y en teatros del West End como parte del equioi de <mark>atención al cliente</mark>.
+    Trabajé durante siete años en el departamento de <mark>Eventos Privados</mark> del Museo Británico, y en teatros del West End como parte del equipo de <mark>atención al cliente</mark>.
 
     Me considero un profesional dinámico que afronta nuevos retos con ilusión y eficacia.
     En la actualidad he decidido dejar atrás mi carrera corporativa para reciclarme y volver a estar en contacto con el cliente me llena de motivación.
@@ -122,7 +122,7 @@ content:
 #        quote: >
 
         description: | # this will include new lines to allow paragraphs
-            Traducción y localización del video juego onine HotShot Trader.
+            Traducción y localización del video juego online HotShot Trader.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -206,7 +206,7 @@ content:
 #        quote: >
 
         description: | # this will include new lines to allow paragraphs
-          Durante este grado desarrollé aptitudes de traducción tanto direca como inversa de inglés y español así como introducción a estudios interculturales e interpretación.
+          Durante este grado desarrollé aptitudes de traducción tanto directa como inversa de inglés y español así como introducción a estudios interculturales e interpretación.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
@@ -245,7 +245,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
 
-      - inversión financiera
+      - Inversión financiera
       - Meditación
       - Música
 
