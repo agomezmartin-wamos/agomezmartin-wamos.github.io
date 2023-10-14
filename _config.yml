@@ -101,7 +101,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: <img src="/images/oratory.png" width="35%" height="35%">
+        title: <img src="/images/oratory.png" width="35%" height="85%">
         link: https://www.london-oratory.org/
         link_text: london-oratory.org
         sub_title: Asistente de conversación
@@ -114,7 +114,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: <img src="/images/gamesys.png" width="35%" height="35%">
+        title: <img src="/images/gamesys.png" width="35%" height="85%">
         link: https://www.gamesysgroup.com/
         link_text: gamesysgroup.com
         sub_title: Traductor y localizador
@@ -127,7 +127,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: <img src="/images/tpt.png" width="35%" height="35%">
+        title: <img src="/images/tpt.png" width="35%" height="85%">
         link: https://www.transperfect.com/
         link_text: transperfect.com
         sub_title: Ingeniero de localización
@@ -142,7 +142,7 @@ content:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
       - layout: left
-        title: <img src="/images/acolad.png" width="35%" height="35%">
+        title: <img src="/images/acolad.png" width="35%" height="85%">
         link: https://www.acolad.com/
         link_text: acolad.com
         sub_title: Technical Services Lead | Ingeniero de localizaión
